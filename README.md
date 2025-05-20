@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nityagopaljena98&label=Profile%20views&color=0e75b6&style=flat" alt="nityagopaljena98" /> </p>
 
 - 🌱 I’m currently learning  **MERN Stack, SQL, MONGODB**
-- 🔭 I’m currently working on  **Role Based Management System**<br><br>
+- 🔭 I’m currently working on  **Role Based Management System**<br>
      👉 [View Project](https://github.com/nitya-gopal-jena/role-based-task-manager)
 
 <h3 align="left">Connect with me:</h3>
