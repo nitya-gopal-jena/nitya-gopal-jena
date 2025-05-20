@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/nitya gopal jena" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nitya gopal jena" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/nitya gopal jena" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nitya gopal jena" height="30" width="40" /></a> <br>
 
 
 <h2><img src="https://miro.medium.com/v2/resize:fit:1400/1*sWM-B-4cvk_9q7GQxpyTiQ.gif" alt="github.gif"  width="30px" height="30px">STATUS GitHub<h2>
