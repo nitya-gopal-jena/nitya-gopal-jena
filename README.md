@@ -18,5 +18,9 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nitya-gopal-jena&show_icons=true&locale=en" alt="nitya-gopal-jena" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nitya-gopal-jena&" alt="nitya-gopal-jena" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nitya-gopal-jena&" alt="nitya-gopal-jena" /></p> <br><br>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nitya-gopal-jena&show_icons=true&locale=en&layout=compact" alt="nitya-gopal-jena" /></p>
+
+
 
