@@ -7,10 +7,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nityagopaljena98&label=Profile%20views&color=0e75b6&style=flat" alt="nityagopaljena98" /> </p>
 # 💫 About Me:
 - 🌱 I’m currently learning  **MERN Stack, SQL, MONGODB**
-- 🔭 I’m currently working on [Role Based Task Management System](https://github.com/nitya-gopal-jena/role-based-task-manager)
+- 🔭 I’m currently working on [Role based task management system](https://github.com/nitya-gopal-jena/role-based-task-manager)
 <br><br>
 ## 🌐 Socials: <br><br>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Nitya Gopal Jena/)
+<p align="left">
+<a href="https://linkedin.com/in/nitya-gopal-jena" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nitya-gopal-jena" height="30" width="40" /></a>
+</p>
 
 
 # 💻 Tech Stack:
@@ -23,6 +25,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=nitya-gopal-jena&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 
 
