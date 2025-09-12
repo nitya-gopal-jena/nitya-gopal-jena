@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nityagopaljena98&label=Profile%20views&color=0e75b6&style=flat" alt="nityagopaljena98" /> </p>
 # 💫 About Me:<br>
 - 🌱 I’m currently learning : MERN Stack, SQL, MongoDB <br>
-- 🔭 I’m currently working on [Role based task management system](https://github.com/nitya-gopal-jena/role-based-task-manager)
+<!-- - 🔭 I’m currently working on [Role based task management system](https://github.com/nitya-gopal-jena/role-based-task-manager) -->
 <br><br>
 ## 🌐 Socials: <br><br>
 <p align="left">
