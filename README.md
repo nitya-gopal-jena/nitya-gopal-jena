@@ -22,8 +22,6 @@
 <!-- Streak Stats -->
 ![GitHub Streak](https://streak-stats.demolab.com?user=nitya-gopal-jena&theme=dark&hide_border=false)
 
-<!-- Top Languages -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nitya-gopal-jena&theme=dark&hide_border=false&layout=compact)
 
 
 ---
