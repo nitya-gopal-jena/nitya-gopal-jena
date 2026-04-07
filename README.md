@@ -63,5 +63,5 @@
 ---
 
 ## 👀 Visitor Count
-![Visitor Count](https://komarev.com/ghpvc/?username=nitya-gopal-jena&color=blue&style=flat)
+[![](https://visitcount.itsvg.in/api?id=nitya-gopal-jena&icon=0&color=0)](https://visitcount.itsvg.in)
 
