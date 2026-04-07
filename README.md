@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://copilot.microsoft.com/th/id/BCO.902cd8b4-01bb-4f53-98c0-7f7f9916c9a9.png" alt="Nitya Gopal Jena Banner" width="1000" style="margin:0; padding:0; display:block; border:none;"/>
-</p>
 
 <h1 align="center">Hi 👋, I'm Nitya Gopal Jena</h1>
 <h3 align="center">A Full Stack Web Developer (MERN)</h3>
@@ -58,13 +55,7 @@
 ## 📊 GitHub Stats
 <p>
   <a href="https://github.com/nitya-gopal-jena">
-    <img src="https://github-readme-stats.vercel.app/api?username=nitya-gopal-jena&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/nitya-gopal-jena">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=nitya-gopal-jena&theme=radical&hide_border=false" alt="GitHub Streak" />
-  </a>
-  <a href="https://github.com/nitya-gopal-jena">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitya-gopal-jena&theme=radical&hide_border=false&layout=compact" alt="Top Languages" />
   </a>
 </p>
 
