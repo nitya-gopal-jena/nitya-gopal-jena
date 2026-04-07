@@ -15,7 +15,7 @@
 ---
 
 ## 🌐 Socials
-<p align="center">
+<p >
 <a href="https://linkedin.com/in/nitya-gopal-jena" target="blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nitya-gopal-jena" height="30" width="40" />
 </a>
@@ -56,7 +56,7 @@
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
+<p >
   <img src="https://github-readme-stats.vercel.app/api?username=nitya-gopal-jena&theme=radical&hide_border=false&include_all_commits=true&count_private=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nitya-gopal-jena&theme=radical&hide_border=false" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitya-gopal-jena&theme=radical&hide_border=false&layout=compact" />
