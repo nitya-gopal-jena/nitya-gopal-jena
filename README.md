@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nitya Gopal Jena</h1>
 <h3 align="center">A Full Stack Web Developer (MERN)</h3>
 
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" style="border-radius: 5px;">
-<br><br>
-
 <p align="center">
   <img src="https://copilot.microsoft.com/th/id/BCO.902cd8b4-01bb-4f53-98c0-7f7f9916c9a9.png" alt="Nitya Gopal Jena Banner" />
 </p>
@@ -50,12 +47,26 @@
 
 ---
 
+## 🧰 Tools I Use
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+
+---
+
 ## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=nitya-gopal-jena&theme=radical&hide_border=false&include_all_commits=true&count_private=true)  
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nitya-gopal-jena&theme=radical&hide_border=false)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nitya-gopal-jena&theme=radical&hide_border=false&layout=compact)  
 
 --- 
+
+## 📈 Developer Metrics
+![GitHub Metrics](https://metrics.lecoq.io/nitya-gopal-jena?template=classic&isocalendar=1&languages=1&stars=1&followup=1&repositories=1&activity=1&achievements=1&notable=1&config.timezone=Asia%2FKolkata)
+
+---
 
 [![](https://visitcount.itsvg.in/api?id=nitya-gopal-jena&icon=0&color=0)](https://visitcount.itsvg.in)
 
