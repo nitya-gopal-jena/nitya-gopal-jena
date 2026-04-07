@@ -1,10 +1,9 @@
-<h1 align="center">Hi 👋, I'm Nitya Gopal Jena</h1>
-<h3 align="center">A Full Stack Web Developer (MERN)</h3>
-
 <p align="center">
-  <img src="https://copilot.microsoft.com/th/id/BCO.902cd8b4-01bb-4f53-98c0-7f7f9916c9a9.png" alt="Nitya Gopal Jena Banner" />
+  <img src="https://copilot.microsoft.com/th/id/BCO.902cd8b4-01bb-4f53-98c0-7f7f9916c9a9.png" alt="Nitya Gopal Jena Banner" width="1000"/>
 </p>
 
+<h1 align="center">Hi 👋, I'm Nitya Gopal Jena</h1>
+<h3 align="center">A Full Stack Web Developer (MERN)</h3>
 
 ---
 
@@ -12,13 +11,14 @@
 - 🔭 I’m currently working on exciting MERN projects  
 - 🌱 I’m learning advanced backend concepts and cloud deployment  
 - 💬 Ask me about React, Node.js, MongoDB, and Express  
- 
 
 ---
 
 ## 🌐 Socials
-<p align="left">
-<a href="https://linkedin.com/in/nitya-gopal-jena" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nitya-gopal-jena" height="30" width="40" /></a>
+<p align="center">
+<a href="https://linkedin.com/in/nitya-gopal-jena" target="blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nitya-gopal-jena" height="30" width="40" />
+</a>
 </p>
 
 ---
@@ -53,21 +53,15 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-
 ---
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=nitya-gopal-jena&theme=radical&hide_border=false&include_all_commits=true&count_private=true)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=nitya-gopal-jena&theme=radical&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nitya-gopal-jena&theme=radical&hide_border=false&layout=compact)  
-
---- 
-
-## 📈 Developer Metrics
-![GitHub Metrics](https://metrics.lecoq.io/nitya-gopal-jena?template=classic&isocalendar=1&languages=1&stars=1&followup=1&repositories=1&activity=1&achievements=1&notable=1&config.timezone=Asia%2FKolkata)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nitya-gopal-jena&theme=radical&hide_border=false&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nitya-gopal-jena&theme=radical&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitya-gopal-jena&theme=radical&hide_border=false&layout=compact" />
+</p>
 
 ---
 
 [![](https://visitcount.itsvg.in/api?id=nitya-gopal-jena&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
