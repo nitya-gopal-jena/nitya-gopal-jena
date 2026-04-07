@@ -52,12 +52,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nitya-gopal-jena&theme=radical&hide_border=false)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nitya-gopal-jena&theme=radical&hide_border=false&layout=compact)  
 
-
----
-
-## 🔥 Contribution Graph
-[![Nitya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nitya-gopal-jena&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)  
-
 --- 
 
 [![](https://visitcount.itsvg.in/api?id=nitya-gopal-jena&icon=0&color=0)](https://visitcount.itsvg.in)
