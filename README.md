@@ -39,7 +39,7 @@
 ## 🚀 Featured Projects
 - [Role Based Task Manager](https://github.com/nitya-gopal-jena/role-based-task-manager)  
   A MERN-based project management system with authentication and role-based access.  
-- [Portfolio Website](https://github.com/nitya-gopal-jena/portfolio)  
+- [Portfolio Website]([https://github.com/nitya-gopal-jena/portfolio](https://nitya-portfolio-delta.vercel.app/))  
   My personal portfolio showcasing projects and skills.  
 
 ---
