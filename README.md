@@ -4,6 +4,10 @@
 
 ---
 
+## 👀 Visitor Count
+![Visitors](https://api.countapi.xyz/hit/nitya-gopal-jena/github-profile?label=Visitors&color=blue)
+
+
 ## 💫 About Me
 - 🔭 I’m currently working on exciting MERN projects  
 - 🌱 I’m learning advanced backend concepts and cloud deployment  
@@ -62,6 +66,5 @@
 
 ---
 
-## 👀 Visitor Count
-[![](https://visitcount.itsvg.in/api?id=nitya-gopal-jena&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
