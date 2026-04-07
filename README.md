@@ -5,7 +5,8 @@
 ---
 
 ## 👀 Visitor Count
-![Visitors](https://img.shields.io/badge/dynamic/json?color=blue&label=Visitors&query=value&url=https://api.countapi.xyz/hit/nitya-gopal-jena/github-profile)
+![Visitor Count](https://komarev.com/ghpvc/?username=nitya-gopal-jena&color=blue&style=flat)
+
 
 
 
