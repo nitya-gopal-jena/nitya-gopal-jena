@@ -48,19 +48,15 @@
 ---
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=nityagopaljena98&theme=radical&hide_border=false&include_all_commits=true&count_private=true)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=nityagopaljena98&theme=radical&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nityagopaljena98&theme=radical&hide_border=false&layout=compact)  
+![](https://github-readme-stats.vercel.app/api?username=nitya-gopal-jena&theme=radical&hide_border=false&include_all_commits=true&count_private=true)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=nitya-gopal-jena&theme=radical&hide_border=false)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nitya-gopal-jena&theme=radical&hide_border=false&layout=compact)  
 
----
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=nityagopaljena98&theme=radical&no-frame=false&no-bg=true&margin-w=4)  
 
 ---
 
 ## 🔥 Contribution Graph
-[![Nitya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nityagopaljena98&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)  
+[![Nitya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nitya-gopal-jena&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)  
 
 --- 
 
