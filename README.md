@@ -4,7 +4,10 @@
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" style="border-radius: 5px;">
 <br><br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nityagopaljena98&label=Profile%20views&color=0e75b6&style=flat" alt="nityagopaljena98" /> </p>
+<p align="center">
+  <img src="https://copilot.microsoft.com/th/id/BCO.902cd8b4-01bb-4f53-98c0-7f7f9916c9a9.png" alt="Nitya Gopal Jena Banner" />
+</p>
+
 
 ---
 
