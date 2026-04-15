@@ -59,7 +59,7 @@
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
+<p>
   <!-- Streak Stats -->
   <a href="https://github.com/nitya-gopal-jena">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=nitya-gopal-jena&theme=radical&hide_border=false" alt="GitHub Streak" />
