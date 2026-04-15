@@ -59,11 +59,18 @@
 ---
 
 ## 📊 GitHub Stats
-<p>
+<p align="center">
+  <!-- Commit & Repo Stats -->
+  <a href="https://github.com/nitya-gopal-jena">
+    <img src="https://github-readme-stats.vercel.app/api?username=nitya-gopal-jena&show_icons=true&theme=radical" alt="GitHub Stats" />
+  </a>
+  
+  <!-- Streak Stats -->
   <a href="https://github.com/nitya-gopal-jena">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=nitya-gopal-jena&theme=radical&hide_border=false" alt="GitHub Streak" />
   </a>
 </p>
+
 
 
 ---
