@@ -7,9 +7,6 @@
 ## 👀 Visitor Count
 ![Visitor Count](https://komarev.com/ghpvc/?username=nitya-gopal-jena&color=blue&style=flat)
 
-
-
-
 ## 💫 About Me
 - 🔭 I’m currently working on exciting MERN projects  
 - 🌱 I’m learning advanced backend concepts and cloud deployment  
@@ -65,8 +62,6 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=nitya-gopal-jena&theme=radical&hide_border=false" alt="GitHub Streak" />
   </a>
 </p>
-
-
 
 ---
 
