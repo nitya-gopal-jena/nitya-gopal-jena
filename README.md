@@ -56,15 +56,6 @@
   A MERN stack secure authentication system project.
 ---
 
-## 📊 GitHub Stats
-<p>
-  <!-- Streak Stats -->
-  <a href="https://github.com/nitya-gopal-jena">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nitya-gopal-jena&theme=radical&hide_border=false" alt="GitHub Streak" />
-  </a>
-</p>
-
----
 
 
 
