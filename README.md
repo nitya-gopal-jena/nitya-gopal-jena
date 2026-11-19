@@ -77,13 +77,13 @@ A MERN Stack task management application featuring authentication and role-based
 
 Tech: React.js · Node.js · Express.js · MongoDB
 
-🔗 View Repository
+[🔗 View Repository](https://github.com/nitya-gopal-jena/role-based-task-manager)  
 
 2. 🌐 Personal Portfolio Website
 
 A personal portfolio website showcasing my development skills, projects, and professional journey.
 
-🔗 Live Demo
+[🔗 Live Demo](https://nitya-portfolio-delta.vercel.app/) 
 
 3. 🔒 MERN Secure Auth
 
@@ -91,7 +91,7 @@ A full-stack authentication project built using the MERN Stack, focusing on secu
 
 Tech: MongoDB · Express.js · React.js · Node.js
 
-🔗 View Repository
+[🔗 View Repository](https://github.com/nitya-gopal-jena/mern-secure-auth) 
 
 📊 GitHub Statistics
 
