@@ -2,7 +2,7 @@
 
 <div align="center">
 
-👋 Hey, I'm Nitya Gopal Jena!
+👋 Hey, I'm Nitya Gopal Jena! |
 🚀 Full Stack Web Developer | MERN Stack Developer
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;MERN+Stack+Enthusiast;Building+Modern+Web+Applications;Always+Learning+New+Technologies" alt="Typing SVG" />
@@ -27,12 +27,14 @@
 Hey there! I'm Nitya Gopal Jena, a passionate Full Stack Web Developer specializing in the MERN Stack.
 
 I enjoy building responsive, user-friendly, and scalable web applications while exploring new technologies and improving my development skills.
-
-🔭 Currently working on exciting MERN Stack projects.
-🌱 Learning advanced backend development and cloud deployment.
-💻 Passionate about building full-stack web applications.
-🎯 Focused on writing clean, maintainable, and efficient code.
-🤝 Open to collaborating on interesting projects.
+<br>
+<br>
+- 🔭 Currently working on exciting MERN Stack projects.
+- 🌱 Learning advanced backend development and cloud deployment.
+- 💻 Passionate about building full-stack web applications.
+- 🎯 Focused on writing clean, maintainable, and efficient code.
+- 🤝 Open to collaborating on interesting projects.
+<br>
 
 🌐 Connect With Me
 
@@ -46,30 +48,42 @@ I enjoy building responsive, user-friendly, and scalable web applications while 
 </p>
 
 💻 Tech Stack & Skills
+
 🎨 Frontend Development
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite" />
-</p>
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) 
+![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ⚙️ Backend Development
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
-</p>
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
 
 🛠️ Tools & Technologies
 
-<p>
-<img src="https://skillicons.dev/icons?i=vscode,git,github,postman,markdown" />
-</p>
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) 
 
+<br>
 📚 Additional Technologies
 React Router
 React Hook Form
 REST APIs
 Authentication & Authorization
 Role-Based Access Control
+<br>
+<br>
+
 🚀 Featured Projects
 1. 🔐 Role Based Task Manager
 
@@ -93,6 +107,8 @@ Tech: MongoDB · Express.js · React.js · Node.js
 
 [🔗 View Repository](https://github.com/nitya-gopal-jena/mern-secure-auth) 
 
+<br>
+
 📊 GitHub Statistics
 
 <div align="center">
@@ -111,19 +127,13 @@ Tech: MongoDB · Express.js · React.js · Node.js
 
 </div>
 
-🐍 Contribution Activity
+<br>
+<br>
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/nitya-gopal-jena/nitya-gopal-jena/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" />
-
-</div>
-
-🎯 Current Goals
 🚀 Build more real-world full-stack applications.
 ☁️ Explore cloud technologies and deployment.
 🔐 Improve backend security and authentication.
-🤝 Contribute to open-source projects.
+
 
 <div align="center">
 
